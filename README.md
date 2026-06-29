@@ -10,7 +10,7 @@ This repository provides links to the datasets used in our study.
 | PASCAL VOC 2007 | Kaggle | — | https://www.kaggle.com/datasets/zaraks/pascal-voc-2007 |
 | PASCAL VOC 2012 | Kaggle | — | https://www.kaggle.com/datasets/huanghanchina/pascal-voc-2012 |
 | mini-ImageNet-100 | Deep Learning Lab | — | https://www.kaggle.com/datasets/arjunashok33/mini-imagenet |
-| Cityscapes | Cityscapes Team | — | \url{https://www.cityscapes-dataset.com/} |
+| Cityscapes | Cityscapes Team | — | https://www.cityscapes-dataset.com |
 
 ## Note
 
